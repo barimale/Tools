@@ -1,2 +1,2 @@
 # Tools
-Templates, snipets etc.
+Templates, snippets etc.
