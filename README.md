@@ -1,2 +1,2 @@
 # Tools
-Templates, snippets etc.
+Place for templates, snippets etc.
